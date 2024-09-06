@@ -1,0 +1,4 @@
+*python - pip
+cài python
+pip install pandas numpy scipy
+
